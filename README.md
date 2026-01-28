@@ -6,12 +6,20 @@ Autor: Piotr Krasodomski
 **Część 1 – przetwarzanie i oczyszczanie danych**
 
 Pliki:
-- `Zadanie_czesc_1_ZALICZENIE.ipynb` – notebook z rozwiązaniem
-- `dane1.csv` – dane wejściowe
+- `Zadanie_czesc_1_ZALICZENIE.ipynb` – notebook z rozwiazaniem
+- `dane1.csv` – dane wejsciowe
 
 
 **Część 2 – eksploracyjna analiza danych**
 
 Pliki:
-- `Zadanie_czesc_2_ZALICZENIE.ipynb` – notebook z rozwiązaniem
-- `dane1.csv` – dane wejściowe 
+- `Zadanie_czesc_2_ZALICZENIE.ipynb` – notebook z rozwiazaniem
+- `dane1.csv` – dane wejsciowe 
+
+
+**Część 3 – przetwarzanie języka naturalnego**
+
+Pliki:
+- `Zadanie_czesc_3_ZALICZENIE.ipynb` – notebook z rozwiazaniem
+- `dane1.csv` – dane wejsciowe
+- `dane1_part3_ner.csv` – dane po przetwarzaniu jezyka naturalnego (NER)
