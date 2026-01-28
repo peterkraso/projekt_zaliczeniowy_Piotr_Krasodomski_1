@@ -22,7 +22,7 @@ Pliki:
 Pliki:
 - `Zadanie_czesc_3_ZALICZENIE.ipynb` – notebook z rozwiazaniem
 - `dane1.csv` – dane wejsciowe
-- `dane1_part3_ner.csv` – dane po przetworzeniu jezyka naturalnego (NER)
+- `dane1_part3_ner.csv` – dane jezyka naturalnego (NER)
 
 
 **Część 4 – rozwiązywanie problemów/umiejętność interpretowania dokumentacji**
